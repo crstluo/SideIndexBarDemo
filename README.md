@@ -1,0 +1,2 @@
+# SideIndexBarDemo
+文件资源为侧边字母索引demo,通过自定义SideIndexBar画出字母,然后处理其touch事件,然后再设置list的position,即可达到功能要求,这里list的item只是字符串,如果有更为复杂的list,则需要修改getLetterPosition方法.
